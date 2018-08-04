@@ -10,7 +10,7 @@
 </p>
 
 - [Web Server](https://github.com/qwebnm7788/handvis) : java/jsp
-- Person Tracking & Deep Learning Server : openpose/LSTM
+- [Person Tracking & Deep Learning Server](https://github.com/generation21/Handvis) : openpose/LSTM
 - Android : kotlin
 - Arduino
 
